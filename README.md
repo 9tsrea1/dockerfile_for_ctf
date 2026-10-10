@@ -1,8 +1,8 @@
-# Dockerfile for Mac Solving CTF Reverse Engineering and Cryptography Challenges
+# Dockerfile for Mac Solving CTF Reverse Engineer and Cryptography Challenges
 
 ## Overview
 
-This dockerfile is which I use to solve CTF challenges. Especially for **Reverse Engineer** and **Cryptography**. I'm using a Macbook and it takes some time for me to use some libraries and tools successfully. Finally I found this way using docker can work stably.
+This is the Dockerfile I use to solve CTF challenges. Especially for **reverse engineering** and **cryptography**. I'm using a MacBook, and it took some time for me to use some libraries and tools successfully. Finally, I found that using Docker works stably.
 
 ## System
 
